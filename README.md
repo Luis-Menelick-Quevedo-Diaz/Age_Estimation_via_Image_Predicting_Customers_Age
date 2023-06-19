@@ -1,0 +1,2 @@
+# Age_Estimation_via_Image_Predicting_Customers_Age
+We are collaborating with a supermarket chain to develop a computer vision model that can analyze images captured at checkout and estimate the age of customers. This is important to comply with legal requirements related to the sale of alcohol. We have a collection of photographs of real people along with their respective ages to train the model.
